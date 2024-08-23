@@ -46,8 +46,6 @@ Here’s a simplified diagram of the architecture created by this Terraform conf
 
 ![Network Diagrams](https://github.com/user-attachments/assets/77133538-08a1-49f5-ac29-6f8f9c626b3f)
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 - Name: Muhammad Ahsan Ijaz
